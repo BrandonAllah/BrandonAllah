@@ -1,9 +1,7 @@
-<h1 align="center">Hey, I'm Brandon Allah 👋</h1>h1>
+# Hey, I'm Brandon Allah 👋
 
-<p align="center">
-  <b>Computer Science Student · Navy Veteran · Aspiring Software Engineer</b>b><br/>
-    <i>Temecula, CA</i>i>
-</p>p>
+**Computer Science Student · Navy Veteran · Aspiring Software Engineer**
+*Temecula, CA*
 
 ---
 
@@ -34,33 +32,26 @@ I'm still exploring the full world of software — from game development to back
 - - 🔭 Exploring game development and software systems
   - - 📖 Building projects to sharpen my skills
     - - 🤝 Looking for internship opportunities in software engineering
-      -
+     
       - ---
-      -
-      - ### 🏅 Certifications
-      -
-      - - 📱 **Introduction to iOS Mobile Application Development** — Meta (Dec 2025)
-        - - 💻 **Introduction to Front-End Development** — Meta (Nov 2025)
-          -
-          - ---
-          -
-          - ### ⚓ My Background
-          -
-          - Before tech, I spent 8 years in the **U.S. Navy** as an Operational Specialist and Instructor — working with real-time radar and communications systems, training teams, and making high-stakes decisions under pressure. That experience gave me a systems-thinking mindset, attention to detail, and the ability to learn fast in high-demand environments.
-          -
-          - ---
-          -
-          - ### 📫 Connect With Me
-          -
-          - <p>
-            <a href="https://www.linkedin.com/in/brandonallah">
-                  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-            </a>a>
-          </p>p>
+
+      ### 🏅 Certifications
+
+      - 📱 **Introduction to iOS Mobile Application Development** — Meta (Dec 2025)
+      - - 💻 **Introduction to Front-End Development** — Meta (Nov 2025)
        
-          ---
-       
-          <p align="center">
-              <img src="https://github-readme-stats.vercel.app/api?username=BrandonAllah&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-          </p>p>
-            </i></b>
+        - ---
+
+        ### ⚓ My Background
+
+        Before tech, I spent 8 years in the **U.S. Navy** as an Operational Specialist and Instructor — working with real-time radar and communications systems, training teams, and making high-stakes decisions under pressure. That experience gave me a systems-thinking mindset, attention to detail, and the ability to learn fast in high-demand environments.
+
+        ---
+
+        ### 📫 Connect With Me
+
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonallah)
+
+        ---
+
+        ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrandonAllah&show_icons=true&theme=dark&hide_border=true&count_private=true)
