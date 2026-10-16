@@ -7,7 +7,7 @@
 
 ### 🧭 About Me
 
-After 8 years serving in the U.S. Navy as an Operational Specialist, I made a deliberate decision to pursue my next challenge — software engineering.
+After 8 years serving in the U.S. Navy as an Operations Specialist, I made a deliberate decision to pursue my next challenge — software engineering.
 
 I'm currently studying **Computer Science at Mt. San Jacinto College**, building a strong foundation in programming, data structures, and systems design. The discipline and problem-solving mindset I developed in the Navy is something I bring into everything I build.
 
@@ -24,23 +24,23 @@ I'm still exploring the full world of software — from game development to back
 
 ### 📚 Currently
 
-- 🎓 Studying Computer Science @ Mt. San Jacinto College
-- - 🔭 Exploring game development and software systems
-  - - 📖 Building projects to sharpen my skills
-    - - 🤝 Looking for internship opportunities in software engineering
+- Studying Computer Science @ Mt. San Jacinto College
+- Exploring game development and software systems
+- Building projects to sharpen my skills
+- 🤝 Looking for internship opportunities in software engineering
      
       - ---
 
       ### 🏅 Certifications
 
-      - 📱 **Introduction to iOS Mobile Application Development** — Meta (Dec 2025)
-      - - 💻 **Introduction to Front-End Development** — Meta (Nov 2025)
+      - **Introduction to iOS Mobile Application Development** — Meta (Dec 2025)
+      - **Introduction to Front-End Development** — Meta (Nov 2025)
        
         - ---
 
         ### ⚓ My Background
 
-        Before tech, I spent 8 years in the **U.S. Navy** as an Operational Specialist and Instructor — working with real-time radar and communications systems, training teams, and making high-stakes decisions under pressure. That experience gave me a systems-thinking mindset, attention to detail, and the ability to learn fast in high-demand environments.
+        Before tech, I spent 8 years in the **U.S. Navy** as an Operations Specialist and Instructor — working with real-time radar and communications systems, training teams, and making high-stakes decisions under pressure. That experience gave me a systems-thinking mindset, attention to detail, and the ability to learn fast in high-demand environments.
 
         ---
 
