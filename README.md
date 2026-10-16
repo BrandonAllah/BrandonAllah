@@ -1,6 +1,6 @@
 # Hey, I'm Brandon Allah 👋
 
-**Computer Science Student · Navy Veteran · Aspiring Software Engineer**
+**Computer Science Student · Navy Veteran · Aspiring Software Engineer**  
 *Temecula, CA*
 
 ---
@@ -24,30 +24,44 @@ I'm still exploring the full world of software — from game development to back
 
 ### 📚 Currently
 
-- Studying Computer Science @ Mt. San Jacinto College
-- Exploring game development and software systems
-- Building projects to sharpen my skills
-- 🤝 Looking for internship opportunities in software engineering
-     
-      - ---
+- 🎓 Studying Computer Science at Mt. San Jacinto College
+- 🎮 Exploring game development and software systems
+- 💻 Building projects to sharpen my programming skills
+- 🤝 Looking for software engineering internship opportunities
 
-      ### 🏅 Certifications
+---
 
-      - **Introduction to iOS Mobile Application Development** — Meta (Dec 2025)
-      - **Introduction to Front-End Development** — Meta (Nov 2025)
-       
-        - ---
+### 💻 Featured Projects
 
-        ### ⚓ My Background
+#### Hackathon Registration — C++
 
-        Before tech, I spent 8 years in the **U.S. Navy** as an Operations Specialist and Instructor — working with real-time radar and communications systems, training teams, and making high-stakes decisions under pressure. That experience gave me a systems-thinking mindset, attention to detail, and the ability to learn fast in high-demand environments.
+A beginner-friendly C++ console application that registers participants and checks age eligibility.
 
-        ---
+**Technologies:** C++, Git
 
-        ### 📫 Connect With Me
+🔗 [View Project](https://github.com/BrandonAllah/HackathonRegistration)
 
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonallah)
+---
 
-        ---
+### 🏅 Certifications
 
-        ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrandonAllah&show_icons=true&theme=dark&hide_border=true&count_private=true)
+- **Introduction to iOS Mobile Application Development** — Meta (Dec 2025)
+- **Introduction to Front-End Development** — Meta (Nov 2025)
+
+---
+
+### ⚓ My Background
+
+Before tech, I spent 8 years in the **U.S. Navy** as an Operations Specialist and Instructor — working with real-time radar and communications systems, training teams, and making high-stakes decisions under pressure.
+
+That experience gave me a systems-thinking mindset, attention to detail, and the ability to learn fast in high-demand environments.
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonallah)
+
+---
+
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrandonAllah&show_icons=true&theme=dark&hide_border=true)
